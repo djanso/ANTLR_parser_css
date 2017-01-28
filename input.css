@@ -1,0 +1,24 @@
+#test{
+	color:#333fff;
+	font-size: 15px;
+	font-family: arial;
+} 
+
+h2, body{
+	color : yellow;
+	font-family: arial;
+}
+
+h1{
+	color : yellow;
+	font-family: arial;
+}
+
+.test3{
+	color : yellow;
+	font-family: cambria;
+}
+
+a:hover{
+	color:red;
+}
